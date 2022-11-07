@@ -1,6 +1,6 @@
 //Verilog code for NAND gate using data-flow modeling
 
-module not_gate(
+module nand_gate(
     input a,
     input b,
     output y
