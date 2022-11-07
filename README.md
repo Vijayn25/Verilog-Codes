@@ -1,2 +1,3 @@
 # Verilog-Codes
-In the below codes you can see about the verilog codes 
+HI GUYS....👋
+The Verilog codes are given in the file
