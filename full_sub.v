@@ -1,4 +1,5 @@
-// 
+//  Verilog Code Full Subractor using Behavioral Modelling
+
 module full_sub(
     input a,
     input b,
