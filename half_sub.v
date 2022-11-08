@@ -1,4 +1,4 @@
-//
+//  Verilog Code Half Subractor using Behavioral Modelling
 module half_sub(
     input a,
     input b,
