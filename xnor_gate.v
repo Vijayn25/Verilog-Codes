@@ -1,4 +1,4 @@
-
+// Verilog code for XNOR gate using data-flow modeling
 module xnor_gate(
     input a,
     input b,
