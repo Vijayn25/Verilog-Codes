@@ -1,4 +1,4 @@
 # Verilog-Codes
 HI GUYS....👋
 The Verilog codes are given in the file.
-#verilog #FPGA #vlsi
+$verilog #FPGA #vlsi
