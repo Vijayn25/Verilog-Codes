@@ -1,4 +1,4 @@
-
+//  Verilog Code Half Adder using Behavioral Modelling
 
 module half_adder(
     input a,
